@@ -1,0 +1,41 @@
+---
+title: "Practice_cv"
+output: html_document
+date: "`r lubridate::today()`"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Joy Lin
+
+## Education
+
++ BA: National Cheng Kung University **2018-2023**
+    - Major: Taiwanese Literature
+    - Minor: Political Science
++ Exchange: University of California, Berkeley **2021-2022**
+    - Concentration: Social Science
++ MA: University of Chicago **2023-**
+    - MAPSS (Master of Art Program in Socical Science)
+
+## HONORS AND AWARDS
++ National Scholarship **2021**
+    - Accomplished an independent paper, and pass the interview, academic English presentation, and academic English writing examination.
+    - Selected for the "Study Abroad Programme for Future Scholars in the Humanities and Social Sciences" organized by the Taiwan Ministry of Education and co-organized by the Academia Sinica
+    - A full scholarship of US$30,000 per year
+    - Sent by the Taiwan Ministry of Education to the University of Berkeley for a one-year engagement in advanced studies
+
+## ACADEMIC EXPERIENCE
++ Foresight Policy Student Leaders Forum **2021**
+    - __Paper publisher__
++ Symposium ‘Obstetrics and gynecology is so scary!? Let's break the myth of obstetrics and gynecology together!’ **2021**
+    - __Program leader and event host __
++ Taiwan Sociology Annual Conference, Taipei, Taiwan	**2020**
+    - __Paper publisher__
+    
+
+    
+
+
